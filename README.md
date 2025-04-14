@@ -25,5 +25,5 @@ The processed datasets are available upon request. <br />
 
 If you have any questions regarding the data, analysis or further improvements, here are the contacts: <br />
 petr_baranov@meei.harvard.edu - PI\
-kriukov.e@northeastern.edu - Bioinformatics + data availability <br />
+kriukov.e@northeastern.edu - First author <br />
 <br />
